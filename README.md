@@ -121,5 +121,8 @@ Después de toda la invetigación establecimos los problems statements:
 - Pagos y transferencias fáciles de ubicar con pasos sencillos. 
 - Ubicación de configuración de tarjeta esperada. 
 
+### VIDEO LOOM 
+
+[LOOM](https://www.loom.com/share/0112fe76bc934bd7a482d52dba964fcc)
 
 Yanina Contreras Layme & Adriana Bautista Vargas
